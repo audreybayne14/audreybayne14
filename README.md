@@ -1,5 +1,11 @@
 - 👋 Hey, I'm Audrey! I graduated from the University of Alabama with a B.A. in Political Science, plus minors in Computer Science and Social Work, in May 2024. This fall, I plan to pursue an M.S. in Computer Science from the University of Colorado, Boulder online.
-- 💼 I'm searching for remote jobs in data science or analysis. I have two years of experience in internships, research, and full-time work using tools like Python, Excel, SQL, and Power BI---I'd be happy to send over my resume if you or someone you know is hiring in those areas!
+- I'm a young professional and M.S. candidate with two years of experience in data science and analysis. My skill set includes:
+-   Collecting data from government agencies, Qualtrics surveys, APIs, or website scrapes.
+-   Cleaning and synthesizing data using Excel, SQL, and Python.
+-   Analyzing data using Python and statistical analysis techniques.
+-   Visualizing data using Python, Power BI, Tableau, and Excel.
+-   Presenting data to stakeholders in academia, nonprofits, businesses, and government.
+-   Managing databases in Microsoft Access.
 - ✅ I have the following industry-recognized certifications: Google Data Analytics Professional Certificate, Microsoft Office Specialist: Excel Associate Certificate, Atlassian Agile Project Management Professional Certificate
 - 📫 Send me a LinkedIn message at linkedin.com/in/audreybayne
 
