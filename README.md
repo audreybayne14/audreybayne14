@@ -1,4 +1,4 @@
-👋 Hey, I'm Audrey! I graduated from the University of Alabama with a B.A. in Political Science, plus minors in Computer Science and Social Work, in May 2024. This fall, I plan to pursue an M.S. in Computer Science from the University of Colorado, Boulder online.
+👋 Hey, I'm Audrey! I graduated from the University of Alabama with a B.A. in Political Science, plus minors in Computer Science and Social Work, in May 2024. This fall, I plan to pursue an M.S. in Data Science from the University of Colorado, Boulder online.
 
 I'm a young professional and M.S. candidate with two years of experience in data science and analysis. My skill set includes:
 -   Collecting data from government agencies, Qualtrics surveys, APIs, or website scrapes.
